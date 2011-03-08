@@ -1,0 +1,8 @@
+A
+750 version
+ball pendulum length, vertical location
+200 -25		// comment: ball travel and location
+-60  60		// comment: degrees of travel, each direction
+
+Put the slip ball wherever you like, and make it move as far as you like!
+The pendulum length is simply the radius of curvature of the glass slip tube.

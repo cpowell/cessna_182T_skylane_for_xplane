@@ -1,0 +1,8 @@
+A
+750 version
+	t_bottom	t_top		pitch_min		pitch_max
+ 	50		70		-20			20		// comment: artificial horizon 
+// 	106		148		-20			20		// comment: artificial horizon 
+
+
+Make your tapes any size you like, providing coordinates above and degrees medium range!
