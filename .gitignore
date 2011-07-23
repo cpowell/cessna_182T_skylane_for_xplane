@@ -1,2 +1,6 @@
 *.HOBBS
 .DS_Store
+plugins
+avionics.lua
+Custom Avionics
+KLNconfig.txt
